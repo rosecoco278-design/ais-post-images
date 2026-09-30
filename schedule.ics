@@ -1,0 +1,170 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//A. Social Squad//Publish Schedule//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:A. Social Squad publish schedule
+BEGIN:VEVENT
+UID:2026-09-26_1600_instagram_publish-test.md@social-squad-schedule
+DTSTAMP:20260926T080000Z
+DTSTART:20260926T080000Z
+DTEND:20260926T083000Z
+SUMMARY:Instagram
+DESCRIPTION:published - Testing my publishing setup\, please ignore this. I
+ 'll delete it shortly.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-30_1558_facebook_hello-facebook.md@social-squad-schedule
+DTSTAMP:20260930T020000Z
+DTSTART:20260930T020000Z
+DTEND:20260930T023000Z
+SUMMARY:Facebook
+DESCRIPTION:published - AI Business Lab now has a home here too.\n\nI'm a f
+ inance and strategy person learning AI in public: what it's actually usefu
+ l for\, what it isn't\, and everything in between. No hype\, just real exp
+ eriments on real business problems.\n\nThis page is brand new\, so conside
+ r this the first hello. More soon.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-30_1758_facebook_where-to-start.md@social-squad-schedule
+DTSTAMP:20260930T095800Z
+DTSTART:20260930T095800Z
+DTEND:20260930T102800Z
+SUMMARY:Facebook: Where to start?
+DESCRIPTION:approved - Remember the first time you rode a bicycle? Or the f
+ irst time you spoke a language that wasn't your mother tongue? Or your fir
+ st hour on a computer at school?\n\nNew feels exciting and scary at once. 
+ Exciting because it's new. Scary because of everything we don't know yet. 
+ But not knowing something doesn't mean we can't learn it\, and the scary p
+ art usually shrinks once we look at the details. So let's look.\n\nTake AI
+ . The news is loud: it's amazing\, it's exciting\, it's frightening\, some
+ times in the same headline.\n\nI'm learning AI in public\, so I started th
+ is blog. It's called AI Business Lab.\n\nI work in finance and strategy\, 
+ so that's where I start\, not where I stop. I'll test AI on business probl
+ ems wherever they show up\, from a budget table to building my own team of
+  agents.\n\nI like things structured and easy to follow\, and I'll break d
+ own the complex terms and ideas the way I wish someone had done for me.\n\
+ nRegularly\, I'll run one real task through AI and show you what happened\
+ , mistakes included.\n\nIf you're starting too\, come along. Let's share\,
+  help each other and learn together.\n\nCheers!\n\nP.S. This post was co-c
+ reated by me and my Social Squad Agent team. I'll introduce them here\, sl
+ owly.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-30_1758_instagram_where-to-start.md@social-squad-schedule
+DTSTAMP:20260930T095800Z
+DTSTART:20260930T095800Z
+DTEND:20260930T102800Z
+SUMMARY:Instagram: Where to start?
+DESCRIPTION:approved - Remember the first time you rode a bicycle? Or the f
+ irst time you spoke a language that wasn't your mother tongue? Or your fir
+ st hour on a computer at school?\n\nNew feels exciting and scary at once. 
+ Exciting because it's new. Scary because of everything we don't know yet. 
+ But not knowing something doesn't mean we can't learn it\, and the scary p
+ art usually shrinks once we look at the details. So let's look.\n\nTake AI
+ . The news is loud: it's amazing\, it's exciting\, it's frightening\, some
+ times in the same headline.\n\nI'm learning AI in public\, so I started th
+ is blog. It's called AI Business Lab.\n\nI work in finance and strategy\, 
+ so that's where I start\, not where I stop. I'll test AI on business probl
+ ems wherever they show up\, from a budget table to building my own team of
+  agents.\n\nI like things structured and easy to follow\, and I'll break d
+ own the complex terms and ideas the way I wish someone had done for me.\n\
+ nRegularly\, I'll run one real task through AI and show you what happened\
+ , mistakes included.\n\nIf you're starting too\, come along. Let's share\,
+  help each other and learn together.\n\nCheers!\n\nP.S. This post was co-c
+ reated by me and my Social Squad Agent team. I'll introduce them here\, sl
+ owly.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-07_1758_facebook_why-ai-agent-pilots-stall.md@social-squad-sche
+ dule
+DTSTAMP:20261007T095800Z
+DTSTART:20261007T095800Z
+DTEND:20261007T102800Z
+SUMMARY:Facebook: Why most AI agent pilots stall\, and the boring setup tha
+ t got mine past week one
+DESCRIPTION:approved - Most company pilots of AI agents never make it into 
+ daily use. That's the message from nearly every write-up I read this month
+ . The reasons they give are rarely about the technology. They're scope tha
+ t keeps growing\, messy data\, and nobody deciding who checks the output.\
+ n\nI don't run a company pilot. I run a one-person setup: three agents (re
+ search\, content\, scheduling) and a dashboard I built in a single session
+ . It's small and it's pre-revenue. But it's real\, and I've been using it 
+ since. So I went back through it and asked which choices kept it from stal
+ ling. Three stood out.\n\n**Each agent got one job.**\n\nThe temptation wa
+ s to build one clever assistant that does everything. I did the opposite. 
+ The researcher only researches. The content agent only drafts. The schedul
+ er only handles timing. They can't wander into each other's work\, which a
+ lso means that when something goes wrong\, I know where to look.\n\n**The 
+ data came first.**\n\nBefore any agent touched my reference material\, I s
+ pent time sorting it. 83 files\, each classified so an agent can find the 
+ right one instead of guessing. It was the least exciting part of the whole
+  build. It's also the part I'd skip next time if I were rushing\, and I'd 
+ regret it\, because an agent working from a pile of unsorted files gives y
+ ou confident nonsense.\n\n**Nothing moves without me.**\n\nEvery handoff h
+ as a defined shape\, and every piece of content sits in a queue until I ap
+ prove it. This is the governance piece\, and mine is tiny: one person\, on
+ e approval button. Still\, it changes the question from "can I trust the a
+ gent?" to "did I look at this?" The second one I can answer.\n\nWhat I can
+ 't tell you is whether this holds up at scale. A team of forty with real b
+ udgets and conflicting priorities is a different problem\, and one session
+  of building doesn't prove anything about it. I also can't give you a clea
+ n failure rate for pilots\, because the numbers I found disagree with each
+  other. "Most stall" is as far as I'll go.\n\nBut the pattern matches what
+  I saw at my own desk. The agents that would have failed were the ones I'd
+  have made too broad\, fed with a mess\, and left unchecked. Narrow\, fed 
+ properly\, reviewed: that's it. Nothing clever.\n\nIf you're about to star
+ t an agent project at work\, try this first. Write down the one job. Then 
+ write down who approves the output. If you can't answer either in a senten
+ ce\, the pilot is already in trouble.\n\nCheers!
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-07_1758_instagram_why-ai-agent-pilots-stall.md@social-squad-sch
+ edule
+DTSTAMP:20261007T095800Z
+DTSTART:20261007T095800Z
+DTEND:20261007T102800Z
+SUMMARY:Instagram: Why most AI agent pilots stall\, and the boring setup th
+ at got mine past week one
+DESCRIPTION:approved - Most company pilots of AI agents never make it into 
+ daily use. That's the message from nearly every write-up I read this month
+ . The reasons they give are rarely about the technology. They're scope tha
+ t keeps growing\, messy data\, and nobody deciding who checks the output.\
+ n\nI don't run a company pilot. I run a one-person setup: three agents (re
+ search\, content\, scheduling) and a dashboard I built in a single session
+ . It's small and it's pre-revenue. But it's real\, and I've been using it 
+ since. So I went back through it and asked which choices kept it from stal
+ ling. Three stood out.\n\n**Each agent got one job.**\n\nThe temptation wa
+ s to build one clever assistant that does everything. I did the opposite. 
+ The researcher only researches. The content agent only drafts. The schedul
+ er only handles timing. They can't wander into each other's work\, which a
+ lso means that when something goes wrong\, I know where to look.\n\n**The 
+ data came first.**\n\nBefore any agent touched my reference material\, I s
+ pent time sorting it. 83 files\, each classified so an agent can find the 
+ right one instead of guessing. It was the least exciting part of the whole
+  build. It's also the part I'd skip next time if I were rushing\, and I'd 
+ regret it\, because an agent working from a pile of unsorted files gives y
+ ou confident nonsense.\n\n**Nothing moves without me.**\n\nEvery handoff h
+ as a defined shape\, and every piece of content sits in a queue until I ap
+ prove it. This is the governance piece\, and mine is tiny: one person\, on
+ e approval button. Still\, it changes the question from "can I trust the a
+ gent?" to "did I look at this?" The second one I can answer.\n\nWhat I can
+ 't tell you is whether this holds up at scale. A team of forty with real b
+ udgets and conflicting priorities is a different problem\, and one session
+  of building doesn't prove anything about it. I also can't give you a clea
+ n failure rate for pilots\, because the numbers I found disagree with each
+  other. "Most stall" is as far as I'll go.\n\nBut the pattern matches what
+  I saw at my own desk. The agents that would have failed were the ones I'd
+  have made too broad\, fed with a mess\, and left unchecked. Narrow\, fed 
+ properly\, reviewed: that's it. Nothing clever.\n\nIf you're about to star
+ t an agent project at work\, try this first. Write down the one job. Then 
+ write down who approves the output. If you can't answer either in a senten
+ ce\, the pilot is already in trouble.\n\nCheers!
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
