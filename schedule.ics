@@ -32,7 +32,7 @@ UID:2026-09-30_1758_facebook_where-to-start.md@social-squad-schedule
 DTSTAMP:20260930T095800Z
 DTSTART:20260930T095800Z
 DTEND:20260930T102800Z
-SUMMARY:Facebook: Where to start?
+SUMMARY:Facebook
 DESCRIPTION:published - Remember the first time you rode a bicycle? Or the 
  first time you spoke a language that wasn't your mother tongue? Or your fi
  rst hour on a computer at school?\n\nNew feels exciting and scary at once.
@@ -58,7 +58,7 @@ UID:2026-09-30_1758_instagram_where-to-start.md@social-squad-schedule
 DTSTAMP:20260930T095800Z
 DTSTART:20260930T095800Z
 DTEND:20260930T102800Z
-SUMMARY:Instagram: Where to start?
+SUMMARY:Instagram
 DESCRIPTION:published - Remember the first time you rode a bicycle? Or the 
  first time you spoke a language that wasn't your mother tongue? Or your fi
  rst hour on a computer at school?\n\nNew feels exciting and scary at once.
@@ -86,112 +86,87 @@ DTSTAMP:20261002T095800Z
 DTSTART:20261002T095800Z
 DTEND:20261002T102800Z
 SUMMARY:Facebook: Your first 10 minutes with AI (free\, nothing to install)
-DESCRIPTION:approved - You've heard that everyone is using AI. You've maybe
-  made an account. And now you're looking at an empty box\, wondering what 
- a "good" question even looks like\, and whether you're about to do somethi
- ng dumb.\n\nYou're not. There's nothing to break here\, and it costs nothi
- ng. Only 34% of workers say their employer offers any AI training\, so mos
- t people are teaching themselves. This is the shortest version of that I k
- now.\n\n**Step 1: Pick one real task.**\nSomething from your actual week t
- hat you mildly dislike. A tricky email\, a meeting summary\, a formula you
-  can never remember. Don't pick "learn AI." Pick a task.\n\n**Step 2: Open
-  a free tool.**\nClaude\, ChatGPT and Gemini all have free plans. Make an 
- account with your email. Cost is the barrier 57% of people name\, so start
-  on the free plan and stay there until you have a reason to leave it.\n\n*
- *Step 3: Strip out anything confidential.**\nThis is the step people skip\
- , so it comes before your first prompt. A free tool is a company's server\
- , and what you type goes there. Depending on the tool and the plan\, chats
-  may be reviewed or used to improve the model. Defaults differ\, so open t
- he privacy or data settings in your account and read what yours does.\n\nT
- hen build one habit. Before you paste anything\, swap client and colleague
-  names for placeholders ("Client A")\, round the numbers\, and delete what
- ever identifies a deal\, a person or a price. Keep the shape of the proble
- m and lose the details that point to a real one.\n\nSome things never go i
- n at all: passwords\, contracts\, anything your company has told you to ke
- ep in-house. If your employer has an AI policy\, follow it. If you're not 
- sure\, ask\, or use a made-up example. Worry about privacy is one of the t
- op reasons people hold back from AI\, and it's a fair worry. This step is 
- how you answer it.\n\n**Step 4: Give it a situation\, then a request.**\nA
- n empty prompt gets you a generic answer. Try this one\, with your own det
- ails changed:\n\n*"I work in finance. Here's a draft email to my manager a
- bout a budget overrun on Project X: [paste\, with names and exact figures 
- changed]. Make it shorter and calmer\, and keep the numbers."*\n\nYour sit
- uation first\, your request second. That's the whole formula.\n\n**Step 5:
-  Push back.**\nSay "too formal." Say "put the number first." Say "give me 
- a version for someone who's annoyed." The first answer is a draft\, and th
- e skill you're building is steering it.\n\n**Step 6: Check it.**\nAI write
- s confident sentences\, including wrong ones. Read every number and every 
- claim against your source before you send anything. Then put your real nam
- es and figures back in yourself. This takes two minutes and it keeps you o
- ut of trouble.\n\n## Free videos to watch next\n\nWatching helps\, especia
- lly if you follow along with your own task open in another window. Search 
- these channels:\n\n- **Anthropic (official):** walkthroughs of Claude from
-  the people who make it.\n- **OpenAI (official):** the same for ChatGPT.\n
- - **Google (official):** intro videos on Gemini.\n\nCheck the dates on wha
- tever you click. These tools change quickly\, and a video from a year ago 
- may show a different screen.\n\n## What's next\n\nYou've now used AI on re
- al work\, safely. The problem is that it lives in a chat window and disapp
- ears. In Part 2\, I'll set up VS Code and GitHub step by step so you can k
- eep your work\, save every version\, and let AI help inside your own files
- . Under an hour\, and every step stands on its own.\n\nCheers!
+DESCRIPTION:published - You've heard that everyone is using AI. You've mayb
+ e made an account. And now you're looking at an empty box\, wondering what
+  a "good" question even looks like\, and whether you're about to do someth
+ ing dumb.\n\nYou're not. There's nothing to break here\, and it costs noth
+ ing. Only 34% of workers say their employer offers any AI training\, so mo
+ st people are teaching themselves. This is the shortest version of that I 
+ know.\n\n**Step 1: Pick one real task.**\nSomething from your actual week 
+ that you mildly dislike. A tricky email\, a meeting summary\, a formula yo
+ u can never remember. Don't pick "learn AI." Pick a task.\n\n**Step 2: Ope
+ n a free tool.**\nClaude\, ChatGPT and Gemini all have free plans. Make an
+  account with your email. Cost is the barrier 57% of people name\, so star
+ t on the free plan and stay there until you have a reason to leave it.\n\n
+ **Step 3: Strip out anything confidential.**\nThis is the step people skip
+ \, so it comes before your first prompt. A free tool is a company's server
+ \, and what you type goes there. Depending on the tool and the plan\, chat
+ s may be reviewed or used to improve the model. Defaults differ\, so open 
+ the privacy or data settings in your account and read what yours does.\n\n
+ Then build one habit. Before you paste anything\, swap client and colleagu
+ e names for placeholders ("Client A")\, round the numbers\, and delete wha
+ tever identifies a deal\, a person or a price. Keep the shape of the probl
+ em and lose the details that point to a real one.\n\nSome things never go 
+ in at all: passwords\, contracts\, anything your company has told you to k
+ eep in-house. If your employer has an AI policy\, follow it. If you're not
+  sure\, ask\, or use a made-up example. Worry about privacy is one of the 
+ top reasons people hold back from AI\, and it's a fair worry. This step is
+  how you answer it.\n\n**Step 4: Give it a situation\, then a request.**\n
+ An empty prompt gets you a generic answer. Try this one\, with your own de
+ tails changed:\n\n*"I work in finance. Here's a draft email to my manager 
+ about a budget overrun on Project X: [paste\, with names and exact figures
+  changed]. Make it shorter and calmer\, and keep the numbers."*\n\nYour si
+ tuation first\, your request second. That's the whole formula.\n\n**Step 5
+ : Push back.**\nSay "too formal." Say "put the number first." Say "give me
+  a version for someone who's annoyed." The first answer is a draft\, and t
+ he skill you're building is steering it.\n\n**Step 6: Check it.**\nAI writ
+ es confident sentences\, including wrong ones. Read every number and every
+  claim against your source before you send anything. Then put your real na
+ mes and figures back in yourself. This takes two minutes and it keeps you 
+ out of trouble.\n\n## Free videos to watch next\n\nWatching helps\, especi
+ ally if you follow along with your own task open in another window. Search
+  these channels:\n\n- **Anthropic (official):** walkthroughs of Claude fro
+ m the people who make it.\n- **OpenAI (official):** the same for ChatGPT.\
+ n- **Google (official):** intro videos on Gemini.\n\nCheck the dates on wh
+ atever you click. These tools change quickly\, and a video from a year ago
+  may show a different screen.\n\n## What's next\n\nYou've now used AI on r
+ eal work\, safely. The problem is that it lives in a chat window and disap
+ pears. In Part 2\, I'll set up VS Code and GitHub step by step so you can 
+ keep your work\, save every version\, and let AI help inside your own file
+ s. Under an hour\, and every step stands on its own.\n\nCheers!
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-14_1758_instagram_first-10-minutes-with-ai.md@social-squad-sche
- dule
-DTSTAMP:20261002T095800Z
-DTSTART:20261002T095800Z
-DTEND:20261002T102800Z
+UID:2026-10-14_1758_instagram_first-10-minutes-with-ai-retry.md@social-squa
+ d-schedule
+DTSTAMP:20261003T075800Z
+DTSTART:20261003T075800Z
+DTEND:20261003T082800Z
 SUMMARY:Instagram: Your first 10 minutes with AI (free\, nothing to install
  )
-DESCRIPTION:approved - You've heard that everyone is using AI. You've maybe
-  made an account. And now you're looking at an empty box\, wondering what 
- a "good" question even looks like\, and whether you're about to do somethi
- ng dumb.\n\nYou're not. There's nothing to break here\, and it costs nothi
- ng. Only 34% of workers say their employer offers any AI training\, so mos
- t people are teaching themselves. This is the shortest version of that I k
- now.\n\n**Step 1: Pick one real task.**\nSomething from your actual week t
- hat you mildly dislike. A tricky email\, a meeting summary\, a formula you
-  can never remember. Don't pick "learn AI." Pick a task.\n\n**Step 2: Open
-  a free tool.**\nClaude\, ChatGPT and Gemini all have free plans. Make an 
- account with your email. Cost is the barrier 57% of people name\, so start
-  on the free plan and stay there until you have a reason to leave it.\n\n*
- *Step 3: Strip out anything confidential.**\nThis is the step people skip\
- , so it comes before your first prompt. A free tool is a company's server\
- , and what you type goes there. Depending on the tool and the plan\, chats
-  may be reviewed or used to improve the model. Defaults differ\, so open t
- he privacy or data settings in your account and read what yours does.\n\nT
- hen build one habit. Before you paste anything\, swap client and colleague
-  names for placeholders ("Client A")\, round the numbers\, and delete what
- ever identifies a deal\, a person or a price. Keep the shape of the proble
- m and lose the details that point to a real one.\n\nSome things never go i
- n at all: passwords\, contracts\, anything your company has told you to ke
- ep in-house. If your employer has an AI policy\, follow it. If you're not 
- sure\, ask\, or use a made-up example. Worry about privacy is one of the t
- op reasons people hold back from AI\, and it's a fair worry. This step is 
- how you answer it.\n\n**Step 4: Give it a situation\, then a request.**\nA
- n empty prompt gets you a generic answer. Try this one\, with your own det
- ails changed:\n\n*"I work in finance. Here's a draft email to my manager a
- bout a budget overrun on Project X: [paste\, with names and exact figures 
- changed]. Make it shorter and calmer\, and keep the numbers."*\n\nYour sit
- uation first\, your request second. That's the whole formula.\n\n**Step 5:
-  Push back.**\nSay "too formal." Say "put the number first." Say "give me 
- a version for someone who's annoyed." The first answer is a draft\, and th
- e skill you're building is steering it.\n\n**Step 6: Check it.**\nAI write
- s confident sentences\, including wrong ones. Read every number and every 
- claim against your source before you send anything. Then put your real nam
- es and figures back in yourself. This takes two minutes and it keeps you o
- ut of trouble.\n\n## Free videos to watch next\n\nWatching helps\, especia
- lly if you follow along with your own task open in another window. Search 
- these channels:\n\n- **Anthropic (official):** walkthroughs of Claude from
-  the people who make it.\n- **OpenAI (official):** the same for ChatGPT.\n
- - **Google (official):** intro videos on Gemini.\n\nCheck the dates on wha
- tever you click. These tools change quickly\, and a video from a year ago 
- may show a different screen.\n\n## What's next\n\nYou've now used AI on re
- al work\, safely. The problem is that it lives in a chat window and disapp
- ears. In Part 2\, I'll set up VS Code and GitHub step by step so you can k
- eep your work\, save every version\, and let AI help inside your own files
- . Under an hour\, and every step stands on its own.\n\nCheers!
+DESCRIPTION:published - You've heard everyone is using AI. Maybe you've eve
+ n made an account. Now you're staring at an empty box\, wondering what a "
+ good" question looks like and whether you're about to do something dumb.\n
+ \nYou're not. Nothing breaks\, and it costs nothing. Only 34% of workers s
+ ay their employer offers any AI training\, so most of us are teaching ours
+ elves. Here's the shortest version I know.\n\n1. Pick one real task. Somet
+ hing from your week you mildly dislike\, like a tricky email or a meeting 
+ summary. Not "learn AI." A task.\n\n2. Open a free tool. Claude\, ChatGPT 
+ and Gemini all have free plans. Cost is the barrier 57% of people name\, s
+ o stay on free until you have a reason to leave.\n\n3. Strip out anything 
+ confidential. This is the step people skip. What you type goes to a compan
+ y's server\, so swap names for "Client A"\, round the numbers\, and leave 
+ out anything secret\, like passwords or contracts. If your work has an AI 
+ policy\, follow it.\n\n4. Give it a situation\, then a request. "I work in
+  finance. Here's a draft email to my manager about a budget overrun: [past
+ e\, details changed]. Make it shorter and calmer\, and keep the numbers." 
+ Situation first\, request second. That's the whole formula.\n\n5. Push bac
+ k. "Too formal." "Put the number first." The first answer is a draft\, and
+  steering it is the skill.\n\n6. Check it. AI writes confident sentences\,
+  wrong ones included. Read every number against your source\, then put the
+  real names and figures back in yourself.\n\nIn Part 2 I'll set up VS Code
+  and GitHub step by step\, so your work stops disappearing into a chat win
+ dow.\n\nCheers!
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
